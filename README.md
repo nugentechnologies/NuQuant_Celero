@@ -5,11 +5,9 @@
 
 ## Downloading the application
 
-Download the most recent release [here](https://github.com/nugentechnologies/NuQuant/archive/1.up.zip). Unpack the .zip archive after downloading it. (For more information about how to unpack a .zip file, see [here](https://www.wikihow.com/Unzip-a-File).)
+Download the most recent release [here](https://github.com/nugentechnologies/NuQuant_Celero/archive/1.0.zip). Unpack the .zip archive after downloading it. (For more information about how to unpack a .zip file, see [here](https://www.wikihow.com/Unzip-a-File).)
 
 ### Installing NuQuant on Qubit 2.0
-
-The following instructions are for `Celero PCR` or `Universal Plus` applications. `Celero` refers to one of these two options in the below text:
 
 **Note:** NuQuant can only be implemented on Qubit® 2.0 Fluorometers running firmware v3.11 (or higher). For instruments requiring an upgrade, see firmware upgrade instructions [here](https://www.thermofisher.com/us/en/home/industrial/spectroscopy-elemental-isotope-analysis/molecular-spectroscopy/fluorometers/qubit/qubit-technical-resources/previous-qubit-models/qubit-firmware.html).
 
